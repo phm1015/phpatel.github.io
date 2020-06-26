@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.retailio.retailerapp.staging",
+    "sha256_cert_fingerprints":
+    ["73:D4:AF:54:27:84:B6:B2:FA:CD:D4:CD:A4:5D:9A:42:2E:61:7B:2C:D9:FA:52:CF:1B:63:33:87:8A:6C:1E:39"]
+  }
+}]
